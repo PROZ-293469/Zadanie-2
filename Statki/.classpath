@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_191"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Studia/semestr 3/PROZ Programowanie zdarzeniowe/Projekt/Zadanie 2/jms-lib/fscontext.jar"/>
+	<classpathentry kind="lib" path="D:/Studia/semestr 3/PROZ Programowanie zdarzeniowe/Projekt/Zadanie 2/jms-lib/gf-client.jar"/>
+	<classpathentry kind="lib" path="D:/Studia/semestr 3/PROZ Programowanie zdarzeniowe/Projekt/Zadanie 2/jms-lib/imqbroker.jar"/>
+	<classpathentry kind="lib" path="D:/Studia/semestr 3/PROZ Programowanie zdarzeniowe/Projekt/Zadanie 2/jms-lib/imqjmsbridge.jar"/>
+	<classpathentry kind="lib" path="D:/Studia/semestr 3/PROZ Programowanie zdarzeniowe/Projekt/Zadanie 2/jms-lib/imqjmsra.jar"/>
+	<classpathentry kind="lib" path="D:/Studia/semestr 3/PROZ Programowanie zdarzeniowe/Projekt/Zadanie 2/jms-lib/imqjmx.jar"/>
+	<classpathentry kind="lib" path="D:/Studia/semestr 3/PROZ Programowanie zdarzeniowe/Projekt/Zadanie 2/jms-lib/imqstomp.jar"/>
+	<classpathentry kind="lib" path="D:/Studia/semestr 3/PROZ Programowanie zdarzeniowe/Projekt/Zadanie 2/jms-lib/javaee.jar"/>
+	<classpathentry kind="lib" path="D:/Studia/semestr 3/PROZ Programowanie zdarzeniowe/Projekt/Zadanie 2/jms-lib/javax.jms-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
